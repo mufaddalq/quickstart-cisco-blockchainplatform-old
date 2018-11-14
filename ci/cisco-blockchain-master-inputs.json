@@ -9,7 +9,7 @@
     },
     {
         "ParameterKey": "KeyPairName",
-        "ParameterValue": "Users/muffadal/.ssh/id_rsa"
+        "ParameterValue": "/Users/muffadal/.ssh/id_rsa"
     },
     {
         "ParameterKey": "NumberOfAZs",
